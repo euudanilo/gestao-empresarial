@@ -112,7 +112,7 @@ function Sistema({ onLogout }) {
             Olá, <strong style={{ color: 'var(--ink2)' }}>{getUser()}</strong>
           </span>
           <button className="btn btn-primary" onClick={abrirCriar}>
-            +
+            + Nova empresa
           </button>
           <button className="btn btn-secondary" onClick={onLogout} title="Sair">
             Sair
