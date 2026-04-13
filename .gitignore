@@ -1,0 +1,40 @@
+# ── Java / Maven ─────────────────────────────
+target/
+*.class
+*.jar
+*.war
+.mvn/
+HELP.md
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# ── Spring Boot ───────────────────────────────
+*.env
+application-local.properties
+
+# ── Node / React ─────────────────────────────
+node_modules/
+empresa-frontend/node_modules/
+empresa-frontend/build/
+empresa-frontend/.env.local
+empresa-frontend/.env.development.local
+empresa-frontend/.env.test.local
+empresa-frontend/.env.production.local
+empresa-frontend/npm-debug.log*
+empresa-frontend/yarn-debug.log*
+
+# ── IDEs ──────────────────────────────────────
+.idea/
+*.iml
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# ── OS ────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Docker ────────────────────────────────────
+# (não ignorar docker-compose.yml — deve ir para o repositório)
