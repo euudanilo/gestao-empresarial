@@ -5,6 +5,12 @@ Sistema completo de cadastro e gerenciamento de empresas com autenticação JWT,
 <p align="center"> <img src="https://img.shields.io/badge/Java-21-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-4.0.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/React-Framework-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Maven-Build-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 </p>
 
+<hr>
+
+<h3>🎬 Demonstração da API</h3>
+<p>
+<img src="https://i.postimg.cc/WzXzP2FJ/2026-04-13-18-04-13.gif" alt="Demonstração do CRUD" />
+</p>
 ---
 
 ## Pré-requisitos
